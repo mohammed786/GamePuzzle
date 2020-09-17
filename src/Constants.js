@@ -1,6 +1,6 @@
 export const BASE_URL1 = "https://puzzlegameapi1.herokuapp.com"
 // export const BASE_URL0 = "https://puzzlegameapi0.herokuapp.com"
-export const BASE_URL0 = "https://7e1459ff8a00.ngrok.io"
+export const BASE_URL0 = "https://b2c82441882b.ngrok.io"
 export const BASE_URL2 = "https://puzzlegameapi2.herokuapp.com"
 // export const BASE_URL0 = "http://127.0.0.1:5000"
 export const CORRECT_ANSWER = "Correct Answer."
