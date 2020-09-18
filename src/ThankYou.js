@@ -87,13 +87,7 @@ export default function Question1(props) {
         </Avatar>
         <Divider variant="fullWidth" component="li" />
           <Typography component="h1" variant="h6" >
-          Great! Now relax and wait for the results. It will be nice of you if you fill up 
-          the feedback form. It will help us to improve further. 
-          </Typography>
-          <Typography>
-            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Z2om2-DLJk2uGtBYH-A1Nd8JZa3RWHVMomRyUz_ybmJUNzhZUjVGOEFTUFAxS0xBQVlEVFRCWU9BRi4u">
-              Feedback form
-            </a>
+          Great! Now relax and wait for the results.
           </Typography>
         </div>
         </Grid>
